@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "ename": "New Year's Eve",
+      "evenue": "The oval",
+      "edate": "2022-12-31",
+      "edescription": "Tick Tock, Tick Tock. the New Year begins at 12 o’clock! Join us for the big countdown. The fun ‘n’ excitement of the New Year Will be incomplete without you. So come over ‘n’ join us to brighten up our celebration!",
+      "id": 1
+    },
+    {
+      "ename": "Karkala Utsav",
+      "evenue": "Karkala Stadium",
+      "edate": "2022-04-15",
+      "edescription": "Karkala Utsav is celebrated with dancing, eating, drinking, and watching or lighting fireworks.",
+      "id": 2
+    },
+    {
+      "ename": "Exhibition",
+      "evenue": "Central Ground",
+      "edate": "2022-01-02",
+      "edescription": "From rides to food, there is variety of everything. Come along, witness the unity in diversity, where people of different culture meet. ",
+      "id": 3
+    },
+    {
+      "ename": "Holi Event",
+      "evenue": "Manipal Inn",
+      "edate": "2022-03-24",
+      "edescription": "Bura na mano, Holi hai! Let us fill our lives with beautiful colours and bring some happiness. ",
+      "id": 4
+    },
+    {
+      "ename": "A.R. Rahman Concert",
+      "evenue": "Palm Island",
+      "edate": "2022-07-10",
+      "edescription": "Come and dance till each and every ounce of your energy lets you groove to the most iconic songs. Come enjoy at the Concert.",
+      "id": 5
+    }
+  ]
+}
